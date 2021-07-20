@@ -64,6 +64,6 @@ now is turn of _links_
 
 [link with title html attributes](https://google.com "google.com popularest search engine in the earth")
 
-[link with reference](an-example-link)
+[link with reference][an-example-link]
 
 [an-example-link]: https://google.com
