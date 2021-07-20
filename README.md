@@ -52,7 +52,7 @@ __Hello World used double underscores(_)___
 + using plus to insert an unorder list
 + and continue it
 - can you continue an unorder list started by + by -
-- Yes!
+- No! it's make new list
 
 * and a splited list!
 * is here
