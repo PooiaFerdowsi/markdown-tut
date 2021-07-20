@@ -68,5 +68,5 @@ now is turn of _links_
 
 [an-example-link]: https://google.com
 
-[link with reference again][reflink]
+[link with reference again][linkref]
 [linkref]: https://youtube.com
