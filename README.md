@@ -68,6 +68,10 @@ now is turn of _links_
 
 [an-example-link]: https://google.com
 
-[link with reference again][linkref]
+[link with reference and title][linkref]
 
-[linkref]: https://youtube.com
+[again link with reference and title][linkrefer "Hello , World"]
+
+[linkref]: https://youtube.com "YouTube"
+
+[linkref]: https://Pooia.com
