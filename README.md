@@ -70,8 +70,8 @@ now is turn of _links_
 
 [link with reference and title][linkref]
 
-[again link with reference and title][linkrefer "Hello , World"]
-
 [linkref]: https://youtube.com "YouTube"
 
-[linkrefer]: https://Pooia.com
+[you can insert reference links bu numberical references][1]
+
+[1]: https://github.com "Source code hosting"
