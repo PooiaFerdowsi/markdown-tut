@@ -78,4 +78,4 @@ now is turn of _links_
 
 [it is name of a reference in brackets that showed as link]
 
-[it is name of a reference in brackets thaht showd as link]: https://dictionary.cambridge.org "Cambridge dictionary"
+[it is name of a reference in brackets that showed as link]: https://dictionary.cambridge.org "Cambridge dictionary"
