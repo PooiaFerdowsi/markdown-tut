@@ -79,3 +79,5 @@ now is turn of _links_
 [it is name of a reference in brackets that showed as link]
 
 [it is name of a reference in brackets that showed as link]: https://dictionary.cambridge.org "Cambridge dictionary"
+
+you can insert links between <> like <https://gnu.org> or you can insert link like https://ftp.gnu.org wothout any special character
