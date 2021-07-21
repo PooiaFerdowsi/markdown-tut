@@ -75,3 +75,7 @@ now is turn of _links_
 [you can insert reference links bu numberical references][1]
 
 [1]: https://github.com "Source code hosting"
+
+[it is name of a reference in brackets that showed as link]
+
+[it is name of a reference in brackets thaht showd as link]: https://dictionary.cambridge.org "Cambridge dictionary"
