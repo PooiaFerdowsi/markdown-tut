@@ -71,8 +71,7 @@ now is turn of _links_
 [link with reference and title][linkref]
 
 [linkref]: https://youtube.com "YouTube"
-
-[you can insert reference links bu numberical references][1]
+[you can insert reference links by numberical references][1]
 
 [1]: https://github.com "Source code hosting"
 
