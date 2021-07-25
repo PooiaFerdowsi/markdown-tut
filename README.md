@@ -81,5 +81,4 @@ now is turn of _links_
 
 you can insert links between <> like <https://gnu.org> or you can insert link like https://ftp.gnu.org wothout any special character
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+![alt text](https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png)
