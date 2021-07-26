@@ -46,9 +46,9 @@ __Hello World used double underscores(_)___
   2. second ordeer sub item
 5. item 5
 
-... an indented paraghraph is here
+...an indented paraghraph is here
 
-... another indented paraghraph
+...another indented paraghraph
 
 + using plus to insert an unorder list
 + and continue it
