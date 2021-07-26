@@ -93,7 +93,8 @@ This organization is dependent on United States <https://usa.gov> and handle mos
 ![alt text](https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png)
 
 My favorite softare NASA developed:
-... is [Astrobee][na]
+
+...is [Astrobee][na]
 
 
 
