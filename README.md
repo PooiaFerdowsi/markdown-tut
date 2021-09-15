@@ -138,5 +138,18 @@ __It's _not_ everything about markdown tables! but it's that you need to know!__
 > and it is a new one
 
 # substitutes of `hr` tag!
+You can use three
+
+...
+dots or
+
+---
+hyphens or
+
+***
+stars
+
+to make an `hr` tag...
+
 
 [na]: https://github.com/nasa/astrobee "NASA Astrobee"
