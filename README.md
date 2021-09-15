@@ -141,6 +141,7 @@ __It's _not_ everything about markdown tables! but it's that you need to know!__
 You can use three
 
 ...
+
 dots or
 
 ---
