@@ -154,3 +154,16 @@ to make an `hr` tag...
 
 
 [na]: https://github.com/nasa/astrobee "NASA Astrobee"
+
+
+***
+
+hr using stars
+
+---
+
+hr using hyphens
+
+___
+
+hr using underscores
