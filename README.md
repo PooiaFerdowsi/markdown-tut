@@ -140,9 +140,9 @@ __It's _not_ everything about markdown tables! but it's that you need to know!__
 # substitutes of `hr` tag!
 You can use three
 
-...
+___
 
-dots or
+underscores or
 
 ---
 hyphens or
