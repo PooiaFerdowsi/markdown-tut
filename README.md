@@ -97,7 +97,46 @@ My favorite softare NASA developed:
 ...is [Astrobee][na]
 
 
+# Tables
+Now I want to experiment tables.
+I've re[a]d that most simple shape of a markdown table looks like below:
 
+```
+Header 1 | Header 2 | Header 3
+---------|----------|----------
+Column 1 | Column 2 | Column 3
+Row 2 | still | row 2
+```
 
+Header 1 | Header 2 | Header 3
+---------|----------|----------
+Column 1 | Column 2 | Column 3
+Row 2 | still | row 2
+
+You can insert `|` before and after heads, like following:
+```
+
+| Header 1 | Header 2 | Header 3 |
+---------|----------|----------
+| Column 1 | Column 2 | Column 3 |
+| Row 2 | still | row 2 |
+```
+| Header 1 | Header 2 | Header 3 |
+---------|----------|----------
+| Column 1 | Column 2 | Column 3 |
+| Row 2 | still | row 2 |
+
+__It's _not_ everything about markdown tables! but it's that you need to know!__
+
+# Blocquotes
+> after a long time, I am still unable to pronunciate `quote` :)
+> But you can properly see that i add a new `>` in the next line
+> and you guess i am writing in a same line!
+> Your guess is not true but that is'nt false!
+> I am writing in different lines but in *same* blockquote!
+
+> and it is a new one
+
+# substitutes of `hr` tag!
 
 [na]: https://github.com/nasa/astrobee "NASA Astrobee"
